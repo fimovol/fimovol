@@ -62,8 +62,8 @@ I am a professional dedicating my time to improving my skills as a frontend deve
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <span><strong>Vercel</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vercel.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Graphql</strong></span><br><br><br>
