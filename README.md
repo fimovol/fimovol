@@ -7,13 +7,13 @@
 
 ## About Me
 
-Hey My Name is Parth Patel, I'm a 3rd year ICT student at Ahmedabad University.I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+I am a professional dedicating my time to improving my skills as a frontend developer every day, my skills in the world of programming helped me create valuable personal projects in which I highlight my skills to create elegant and functional websites.
 
 
 ## Coding Profiles
 
-<a href="https://www.codechef.com/users/night_king_">
-  <img  alt="Parth's Codechef Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://twitter.com/fimovol">
+  <img  alt="Parth's Codechef Profile" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
 </a>
 
 <a href="https://codeforces.com/profile/night_king_">
