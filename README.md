@@ -125,4 +125,4 @@ I am a professional dedicating my time to improving my skills as a frontend deve
 
 
 ---
-⭐️ From [Parth Patel](https://github.com/parth-27) 
+⭐️ From [Javier](https://github.com/fimovol) 
