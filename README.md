@@ -58,16 +58,16 @@ I am a professional dedicating my time to improving my skills as a frontend deve
         <img height="64px" src="https://cdn.svgporn.com/logos/aws-api-gateway.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <span><strong>mongoDB</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+        <span><strong>Graphql</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg">
       </td>
     </tr>
   </tbody>
