@@ -10,18 +10,6 @@
 I am a professional dedicating my time to improving my skills as a frontend developer every day, my skills in the world of programming helped me create valuable personal projects in which I highlight my skills to create elegant and functional websites.
 
 
-## Coding Profiles
-
-<a href="https://twitter.com/fimovol">
-  <img  alt="Parth's Codechef Profile" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
-</a>
-
-<a href="https://codeforces.com/profile/night_king_">
-  <img  alt="Parth's Codeforces Profile" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
-</a>
-
-<hr/>
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
@@ -47,9 +35,9 @@ I am a professional dedicating my time to improving my skills as a frontend deve
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Python</strong>
+        <span><strong>Terminal</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-128.png">
       </td>
       <td width="25%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
