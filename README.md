@@ -35,8 +35,7 @@ I am a professional dedicating my time to improving my skills as a frontend deve
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Terminal</strong>
-        </span><br><br><br>
+        <span><strong>Terminal</strong></span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/terminal-128.png">
       </td>
       <td width="25%" align="center">
@@ -55,8 +54,8 @@ I am a professional dedicating my time to improving my skills as a frontend deve
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <span>Api Gateway</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/aws-api-gateway.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
